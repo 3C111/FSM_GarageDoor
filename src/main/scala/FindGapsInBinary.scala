@@ -1,6 +1,6 @@
 import scala.annotation.tailrec
 
-object FindGapsInBinary extends App {
+object FindGapsInBinary {
 
   val input = 1041
 
